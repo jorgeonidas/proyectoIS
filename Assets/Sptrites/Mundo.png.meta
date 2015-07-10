@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: 0a99d5b9b3c0f7140812e92642e3cf5f
+timeCreated: 1430498286
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: plataforma3
+    21300002: plataforma1
+    21300004: Mundo_2
+    21300006: Mundo_3
+    21300008: Mundo_4
+    21300010: Mundo_5
+    21300012: Mundo_6
+    21300014: Mundo_7
+    21300016: Mundo_8
+    21300018: Mundo_9
+    21300020: Mundo_10
+    21300022: Mundo_11
+    21300024: plataforma2
+    21300026: plataforma4
+    21300028: plataforma5
+    21300030: plataforma6
+    21300032: rocas1
+    21300034: plataforma7
+    21300036: plataforma8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Mundo_2
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 849
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mundo_10
+      rect:
+        serializedVersion: 2
+        x: 2633
+        y: 165
+        width: 357
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mundo_11
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 142
+        width: 417
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma3
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1027
+        width: 298
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1025
+        width: 156
+        height: 156
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma2
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1025
+        width: 175
+        height: 191
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma4
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 553
+        width: 482
+        height: 132
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma5
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 191
+        height: 320
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma6
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 495
+        height: 177
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rocas1
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 4
+        width: 324
+        height: 149
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma7
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 552
+        width: 255
+        height: 252
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 3, y: 0, z: 0, w: 0}
+    - name: plataforma8
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1026
+        width: 435
+        height: 333
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

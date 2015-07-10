@@ -1,0 +1,638 @@
+fileFormatVersion: 2
+guid: 60aa3a41e0018714292944b44f7d4ebc
+timeCreated: 1430494339
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: plataforma2_0
+    21300002: plataforma2_1
+    21300004: plataforma2_2
+    21300006: plataforma2_3
+    21300008: plataforma2_4
+    21300010: plataforma2_5
+    21300012: plataforma2_6
+    21300014: plataforma2_7
+    21300016: plataforma2_8
+    21300018: plataforma2_9
+    21300020: plataforma2_10
+    21300022: plataforma2_11
+    21300024: plataforma2_12
+    21300026: plataforma2_13
+    21300028: plataforma2_14
+    21300030: plataforma2_15
+    21300032: plataforma2_16
+    21300034: plataforma2_17
+    21300036: plataforma2_18
+    21300038: plataforma2_19
+    21300040: plataforma2_20
+    21300042: plataforma2_21
+    21300044: plataforma2_22
+    21300046: plataforma2_23
+    21300048: plataforma2_24
+    21300050: plataforma2_25
+    21300052: plataforma2_26
+    21300054: plataforma2_27
+    21300056: plataforma2_28
+    21300058: plataforma2_29
+    21300060: plataforma2_30
+    21300062: plataforma2_31
+    21300064: plataforma2_32
+    21300066: plataforma2_33
+    21300068: plataforma2_34
+    21300070: plataforma2_35
+    21300072: plataforma2_36
+    21300074: plataforma2_37
+    21300076: plataforma2_38
+    21300078: plataforma2_39
+    21300080: plataforma2_40
+    21300082: plataforma2_41
+    21300084: plataforma2_42
+    21300086: plataforma2_43
+    21300088: plataforma2_44
+    21300090: plataforma2_45
+    21300092: plataforma2_46
+    21300094: plataforma2_47
+    21300096: plataforma2_48
+    21300098: plataforma2_49
+    21300100: plataforma2_50
+    21300102: plataforma2_51
+    21300104: plataforma2_52
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: plataforma2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma2_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 208
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma2_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 208
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma2_3
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 208
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma2_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 208
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma2_5
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 208
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma2_6
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 208
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma2_7
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 208
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma2_8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 208
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma2_9
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 208
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma2_10
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 208
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma2_11
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 208
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma2_12
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 208
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma2_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma2_14
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 156
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma2_15
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 156
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma2_16
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 156
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma2_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 156
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma2_18
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 156
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma2_19
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 156
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma2_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma2_21
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 104
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma2_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 104
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma2_23
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 104
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma2_24
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 104
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma2_25
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 128
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma2_26
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 128
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma2_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma2_28
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 76
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma2_29
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 76
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma2_30
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 76
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma2_31
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 76
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma2_32
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 76
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma2_33
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 76
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma2_34
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 76
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma2_35
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 76
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma2_36
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 76
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma2_37
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 76
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma2_38
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 76
+        width: 72
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma2_39
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 21
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma2_40
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 21
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma2_41
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 48
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma2_42
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 48
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma2_43
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma2_44
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 48
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma2_45
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 48
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma2_46
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 48
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma2_47
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 48
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma2_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 48
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma2_49
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma2_50
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma2_51
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataforma2_52
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

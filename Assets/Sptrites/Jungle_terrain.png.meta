@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: ab4bddb5853d387489837f9a2a0d1e46
+timeCreated: 1430495468
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Jungle_terrain_0
+    21300002: Jungle_terrain_1
+    21300004: Jungle_terrain_2
+    21300006: Jungle_terrain_3
+    21300008: Jungle_terrain_4
+    21300010: Jungle_terrain_5
+    21300012: Jungle_terrain_6
+    21300014: Jungle_terrain_7
+    21300016: Jungle_terrain_8
+    21300018: Jungle_terrain_9
+    21300020: Jungle_terrain_10
+    21300022: Jungle_terrain_11
+    21300024: Jungle_terrain_12
+    21300026: Jungle_terrain_13
+    21300028: Jungle_terrain_14
+    21300030: Jungle_terrain_15
+    21300032: Jungle_terrain_16
+    21300034: Jungle_terrain_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Jungle_terrain_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 320
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jungle_terrain_1
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 435
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jungle_terrain_2
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 403
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jungle_terrain_3
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 327
+        width: 73
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jungle_terrain_4
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 320
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jungle_terrain_5
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 327
+        width: 73
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jungle_terrain_6
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 340
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jungle_terrain_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 160
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jungle_terrain_8
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 308
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jungle_terrain_9
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 181
+        width: 61
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jungle_terrain_10
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 184
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jungle_terrain_11
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 96
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jungle_terrain_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jungle_terrain_13
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 96
+        width: 48
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jungle_terrain_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 128
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jungle_terrain_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 23
+        width: 183
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jungle_terrain_16
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 21
+        width: 156
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jungle_terrain_17
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 192
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
